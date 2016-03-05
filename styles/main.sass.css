@@ -1,0 +1,45 @@
+/* css for first variation */
+#welcomeContainer {
+  box-sizing: border-box;
+  width: 544px;
+  height: 140px;
+  font-size: 14px; }
+
+#leftWelcomeDiv {
+  float: left;
+  background-color: #439CB7;
+  color: white;
+  padding-left: 16px;
+  width: 208px; }
+
+#rightWelcomeDiv {
+  float: right;
+  width: 304px;
+  height: 128px; }
+
+#itemContainer {
+  height: 82px; }
+
+#continueShoppingBtn {
+  background-color: #9B9B9B;
+  color: #fff;
+  text-align: center;
+  padding: 7px;
+  width: 50%;
+  float: left; }
+
+#viewCartBtn {
+  background-color: #FEAA1A;
+  color: #fff;
+  text-align: center;
+  padding: 7px;
+  width: 40%;
+  float: right; }
+
+/* css for second variation */
+#welcomeContainer2 {
+  box-sizing: border-box;
+  padding: 1px 1px 1px 15px;
+  width: 338px;
+  background-color: #439CB7;
+  color: #fff; }
